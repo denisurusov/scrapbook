@@ -40,9 +40,10 @@ Consumers should have a capability to reject data, in which case a formal set of
 
 A mechanism that delivers data from the providers to the consumers, consisting of the following:
 
-- an API to accept data
+- an API to accept data from providers
 - a data store
 - an API to consume data
+- a way for data consumers to reject data
 
 "API" in this context refers to either push or pull delivery method
 
