@@ -9,9 +9,14 @@
 
 ### Constraints (must have requirements)
 
+#### Security
+
 - Data provider authentication (signed by)
 - Source tracing
 - Tamper-proof
+
+#### Functional
+
 - Data and documents, directly or via DMC links
 - API and browsing UI
 - Data keyed off GFCID
